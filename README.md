@@ -1,11 +1,12 @@
 # videoapp-links
 links to the video apps view , server and db
-database
+
+### database
 https://github.com/apjames93/video-db
 
 
-server
+###server
 https://github.com/apjames93/video-server
 
-view
+###view
 https://github.com/apjames93/video-view
